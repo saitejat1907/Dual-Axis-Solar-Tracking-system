@@ -8,19 +8,23 @@ The **Solar Tracking System** is designed to maximize the efficiency of solar pa
 - **Increased Efficiency**: By dynamically adjusting the panel’s orientation, this system can increase power generation by 30% to 60% compared to a fixed-position solar panel.
 - **Arduino Controlled**: The system is powered by an Arduino microcontroller running a custom C code that processes data from the photoresistors and controls the motors.
 
+## Detailed Documentation
+For a comprehensive overview of the project, including results, introduction, and all related information, please refer to the detailed documentation: [Solar Tracking System Documentation](https://github.com/saitejat1907/Dual-Axis-Solar-Tracking-system/blob/main/Mini%20Project%20Final%20report.pdf)
+
+
 ## Images
 
 ### 1. Functionality Overview
 This image shows the general functionality of how the solar panel tracks sunlight.
-![Functionality Overview](images/functionality.png)
+![Functionality Overview](https://github.com/saitejat1907/Dual-Axis-Solar-Tracking-system/blob/main/picture1.jpg)
 
 ### 2. Circuit Connection
 Here is the schematic of the circuit connections used in the project.
-![Circuit Connection](images/circuit_connection.png)
+![Circuit Connection](https://github.com/saitejat1907/Dual-Axis-Solar-Tracking-system/blob/main/picture2.jpg)
 
 ### 3. Prototype
 This is the prototype we built, demonstrating the solar tracking system in action.
-![Prototype](images/prototype.png)
+![Prototype](https://github.com/saitejat1907/Dual-Axis-Solar-Tracking-system/blob/main/picture3.jpg)
 
 ## Project Components
 - **Solar Panel**: Captures sunlight and converts it to electrical energy.
